@@ -1,8 +1,8 @@
 # ===============================
 # Secrets (NEVER COMMIT)
 # ===============================
-.env.example
-.env.*
+.env
+.env
 *.key
 *.pem
 *.secret
